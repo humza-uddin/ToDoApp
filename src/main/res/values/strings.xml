@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="enter_feature_title">Enter Feature Title</string>
+    <string name="example">Example</string>
+</resources>
